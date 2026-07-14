@@ -1,7 +1,5 @@
 # Student_Management_System
 
-# Student Management System
-
 ## Overview
 
 This project was developed for the Advanced Programming Concepts module.
