@@ -29,9 +29,9 @@ The project demonstrates the implementation of a Student Management System using
 
 ## Repository Structure
 
-Version_A/
-Version_B/
-UML/
+V1/
+V2/
+UML diagrams/
 Report/
 
 ## AI Tool Used
